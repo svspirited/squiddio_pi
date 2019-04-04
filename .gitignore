@@ -13,3 +13,4 @@ Release
 core
 .settings/
 src/version.h
+.DS_Store
